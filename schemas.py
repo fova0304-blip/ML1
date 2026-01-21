@@ -20,5 +20,5 @@ class PredictRequest(BaseModel):
 
 
 class PredictResponse(BaseModel):
-    probability: float 
+    proba: float 
     result : int
