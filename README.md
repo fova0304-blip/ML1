@@ -10,6 +10,7 @@ A simple machine learning API that predicts cardiovascular risk based on basic h
 
 ## Dataset
 - Kaggle Cardiovascular Disease Dataset
+- https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset?resource=download
 
 ## Notes
 This project is for educational and portfolio purposes only.
