@@ -1,0 +1,14 @@
+# venv
+ml1/
+venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+
+#개인노트
+note.txt
+
+.ipynb_checkpoints
+ml1
