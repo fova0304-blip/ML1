@@ -12,3 +12,6 @@ note.txt
 
 .ipynb_checkpoints
 ml1
+
+model/
+*.joblib
