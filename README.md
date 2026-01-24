@@ -6,7 +6,6 @@ A simple machine learning API that predicts cardiovascular risk based on basic h
 - Python
 - scikit-learn (RandomForest)
 - FastAPI
-- Docker
 
 ## Dataset
 - Kaggle Cardiovascular Disease Dataset
